@@ -1,0 +1,14 @@
+/Users/maxmorozov/Desktop/lab3/ConTask1/bin/Debug/net10.0/ConTask1
+/Users/maxmorozov/Desktop/lab3/ConTask1/bin/Debug/net10.0/ConTask1.deps.json
+/Users/maxmorozov/Desktop/lab3/ConTask1/bin/Debug/net10.0/ConTask1.runtimeconfig.json
+/Users/maxmorozov/Desktop/lab3/ConTask1/bin/Debug/net10.0/ConTask1.dll
+/Users/maxmorozov/Desktop/lab3/ConTask1/bin/Debug/net10.0/ConTask1.pdb
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.AssemblyInfoInputs.cache
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.AssemblyInfo.cs
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.csproj.CoreCompileInputs.cache
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.dll
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/refint/ConTask1.dll
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.pdb
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ConTask1.genruntimeconfig.cache
+/Users/maxmorozov/Desktop/lab3/ConTask1/obj/Debug/net10.0/ref/ConTask1.dll

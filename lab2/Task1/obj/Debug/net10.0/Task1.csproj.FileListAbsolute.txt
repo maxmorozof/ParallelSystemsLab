@@ -1,0 +1,14 @@
+/Users/maxmorozov/Desktop/lab2/Task1/bin/Debug/net10.0/Task1
+/Users/maxmorozov/Desktop/lab2/Task1/bin/Debug/net10.0/Task1.deps.json
+/Users/maxmorozov/Desktop/lab2/Task1/bin/Debug/net10.0/Task1.runtimeconfig.json
+/Users/maxmorozov/Desktop/lab2/Task1/bin/Debug/net10.0/Task1.dll
+/Users/maxmorozov/Desktop/lab2/Task1/bin/Debug/net10.0/Task1.pdb
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.AssemblyInfoInputs.cache
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.AssemblyInfo.cs
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.csproj.CoreCompileInputs.cache
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.dll
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/refint/Task1.dll
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.pdb
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/Task1.genruntimeconfig.cache
+/Users/maxmorozov/Desktop/lab2/Task1/obj/Debug/net10.0/ref/Task1.dll

@@ -1,0 +1,14 @@
+/Users/maxmorozov/Desktop/lab3/ConTask2/bin/Debug/net10.0/ConTask2
+/Users/maxmorozov/Desktop/lab3/ConTask2/bin/Debug/net10.0/ConTask2.deps.json
+/Users/maxmorozov/Desktop/lab3/ConTask2/bin/Debug/net10.0/ConTask2.runtimeconfig.json
+/Users/maxmorozov/Desktop/lab3/ConTask2/bin/Debug/net10.0/ConTask2.dll
+/Users/maxmorozov/Desktop/lab3/ConTask2/bin/Debug/net10.0/ConTask2.pdb
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.AssemblyInfoInputs.cache
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.AssemblyInfo.cs
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.csproj.CoreCompileInputs.cache
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.dll
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/refint/ConTask2.dll
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.pdb
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ConTask2.genruntimeconfig.cache
+/Users/maxmorozov/Desktop/lab3/ConTask2/obj/Debug/net10.0/ref/ConTask2.dll
